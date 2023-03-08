@@ -148,6 +148,7 @@ h6 {
  animation-name: example;
   animation-duration: 2s;
 	  animation-iteration-count: 6;
+	animation-delay:2;
 }
 .loading {
   text-transform: capitalize;
