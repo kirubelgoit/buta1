@@ -146,7 +146,7 @@ h6 {
   cursor: pointer;
   border-radius: 10px;
  animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 2s;
 	  animation-iteration-count: 6;
 }
 .loading {
