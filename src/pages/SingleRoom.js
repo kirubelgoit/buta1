@@ -73,7 +73,7 @@ export default class SingleRoom extends Component {
               <h3>info</h3>
               <h4 className="gradient__text1 ">Price : {price} ብር</h4>
              {/* <h6>size : {size} Kg</h6>*/}
-              <h4 className="gradient__text1 ">Call :  0937205345</h4>
+              <h4 className="gradient__text1 ">Call :  0937211464</h4>
             { /* <h6>
                 max capacity :
                 {capacity > 1 ? `${capacity} people` : `${capacity} person`}
