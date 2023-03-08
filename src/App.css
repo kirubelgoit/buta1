@@ -129,15 +129,15 @@ h6 {
   color: black;
 }
 @keyframes example {
-  0%   {color:var(--gradient-text)}
+  0%   {color:var(--gradient-text);}
 
-  100% {color:var(--background)}
+  100% {color:var(--background);}
 }
 .primary {
   display: inline-block;
   text-decoration: none;
   letter-spacing: var(--mainSpacing);
-  color: var(--mainBlack);
+  color: var((--gradient-text);
   background: black;
   padding: 0.4rem 0.9rem;
   border: 3px solid black;
@@ -147,6 +147,7 @@ h6 {
   border-radius: 10px;
  animation-name: example;
   animation-duration: 4s;
+	  animation-iteration-count: 6;
 }
 .loading {
   text-transform: capitalize;
