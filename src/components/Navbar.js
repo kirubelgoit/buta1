@@ -14,7 +14,7 @@ export default class Navbar extends Component {
       <nav className="navbar coolBackground">
         <div className="nav-center">
           <div className="nav-header">
-         <h3 style={{color:"#FFF"}}>ቡታ</h3>
+         <h3 style={{color:"#FFF"}}>ቡጣ</h3>
             <button
               type="button"
               className="nav-btn"
