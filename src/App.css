@@ -129,15 +129,15 @@ h6 {
   color: black;
 }
 @keyframes example {
-  0%   {color:var(--gradient-text);}
-
-  100% {color:var(--background);}
+ 
+  50%  {background:transparent; color:black;}
+  100% {  background: black;   color: var(--gradient-text);}
 }
 .primary {
   display: inline-block;
   text-decoration: none;
   letter-spacing: var(--mainSpacing);
-  color: var((--gradient-text);
+  color: var(--gradient-text);
   background: black;
   padding: 0.4rem 0.9rem;
   border: 3px solid black;
