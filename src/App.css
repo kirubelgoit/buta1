@@ -130,7 +130,7 @@ h6 {
 }
 @keyframes example {
  
-  50%  {background:transparent; color:black;}
+  75%  {background:transparent; color:black;}
   100% {  background: black;   color: var(--gradient-text);}
 }
 .primary {
