@@ -128,6 +128,11 @@ h6 {
   background: transparent;
   color: black;
 }
+@keyframes example {
+  0%   {color:var(--gradient-text)}
+
+  100% {color:var(--background)}
+}
 .primary {
   display: inline-block;
   text-decoration: none;
@@ -140,6 +145,8 @@ h6 {
   text-transform: uppercase;
   cursor: pointer;
   border-radius: 10px;
+ animation-name: example;
+  animation-duration: 4s;
 }
 .loading {
   text-transform: capitalize;
