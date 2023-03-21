@@ -110,17 +110,17 @@ const RoomsFilter = ({ rooms }) => {
         </div> */}
         {/* end of select type */}
         {/* extras
-        <div className="form-group">
-          <div className="single-extra">
-            <input
-              type="checkbox"
-              name="breakfast"
-              id="breakfast"
-              checked={breakfast}
-              onChange={handleChange}
-            />
-            <label htmlFor="breakfast">Second_hand</label>
-          </div>
+//         <div className="form-group">
+//           <div className="single-extra">
+//             <input
+//               type="checkbox"
+//               name="breakfast"
+//               id="breakfast"
+//               checked={breakfast}
+//               onChange={handleChange}
+//             />
+//             <label htmlFor="breakfast">Second_hand</label>
+//           </div>
        {/* extras    <div className="single-extra">
             <input
               type="checkbox"
