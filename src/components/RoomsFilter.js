@@ -109,7 +109,7 @@ const RoomsFilter = ({ rooms }) => {
           </div>
         </div> */}
         {/* end of select type */}
-        {/* extras */}
+        {/* extras
         <div className="form-group">
           <div className="single-extra">
             <input
@@ -129,8 +129,8 @@ const RoomsFilter = ({ rooms }) => {
               onChange={handleChange}
             />
             <label htmlFor="breakfast">pets</label>
-          </div>*/} 
-        </div>
+          </div></div>*/} 
+        
         {/* end of extras type */}
       </form>
       </div>
